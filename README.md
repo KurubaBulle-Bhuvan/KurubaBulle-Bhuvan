@@ -9,6 +9,9 @@
 <a href="https://www.hackerrank.com/profile/kbbhuvan2003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
 </a>
+<a href="mailto:kbbhuvan2003@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Gmail_logo_2013.svg/1024px-Google_Gmail_logo_2013.svg.png" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
