@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuruba Bulle Bhuvan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 - 📫 How to reach me **kbbhuvan2003@gmail.com**
 
@@ -8,9 +7,6 @@
 <p align="left">
 <a href="https://www.hackerrank.com/profile/kbbhuvan2003" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
-</a>
-<a href="mailto:kbbhuvan2003@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Gmail_logo_2013.svg/1024px-Google_Gmail_logo_2013.svg.png" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
